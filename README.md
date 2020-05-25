@@ -1,0 +1,2 @@
+# pattern
+sample pyhon codes

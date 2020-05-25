@@ -1,0 +1,7 @@
+n= int(input("Enter no of rows "))
+for i in range(0,n):
+  for j in range (0,n):
+    print('*', end=" ")
+
+  print("\r")
+  n=n-1

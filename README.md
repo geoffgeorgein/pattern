@@ -1,2 +1,2 @@
 # pattern
-sample pyhon codes
+sample python codes
